@@ -1,1 +1,4 @@
-g
+git branch // show current branch
+git branch -a // show all branches
+git branch -d <branch_name> // delete branch
+git branch name // create branch from parent branch
