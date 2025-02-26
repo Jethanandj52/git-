@@ -26,3 +26,5 @@ git checkout name // use for like a switch
 git merge branch name // js branch ko merger kr rho wo merge ho jaye gi master me 
 
 
+// push //////////////////////
+git push origin branch-name // push branch ko origin me
