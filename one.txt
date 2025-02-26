@@ -1,4 +1,28 @@
+1. git init // initialize
+2. git add . // add
+3. git commit -m "first commit" // commit
+4. git branch -M main // rename branch
+5. git remote add origin https://github.com/username/repository.git // add remote
+6. git push -u origin main // push and set upstream
+7. git log // for see all commits 
+8. git log --oneline // show only commits and their msg 
+9. git ignore file name// ese file js ko commit nhi krna means kc ko dekhani nhi he 
+
+git commit -m modefied form branch-name// 
+git config --global user.email "jethanandj52@gmail.com"
+git config --global user.name "Jethanandj52"
+
+
+
 git branch // show current branch
 git branch -a // show all branches
 git branch -d <branch_name> // delete branch
 git branch name // create branch from parent branch
+
+
+git swtich -c dark mode // branch create ho gi or switch ho jaye 
+git checkout pink // branch ko switch krna
+git checkout name
+git merge branch name // js branch ko merger kr rho wo merge ho jaye gi master me 
+
+
