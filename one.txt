@@ -22,7 +22,7 @@ git branch name // create branch from parent branch
 
 git swtich -c dark mode // branch create ho gi or switch ho jaye 
 git checkout pink // branch ko switch krna
-git checkout name
+git checkout name // use for like a switch 
 git merge branch name // js branch ko merger kr rho wo merge ho jaye gi master me 
 
 
